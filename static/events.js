@@ -21,7 +21,7 @@ export const Events = [
       price: 17,
       from: '0xjohn',
       to: '0xDavid',
-      date: ' ago',
+      date: '2 days ago',
     },
   ]
   
